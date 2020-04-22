@@ -1,0 +1,11 @@
+org/example/uploader/dto/UserProjectFolderCreateResponse.class
+org/example/uploader/dto/UserProject.class
+org/example/uploader/service/impl/UserProjectServiceImpl.class
+org/example/uploader/report/ConsolidatedReport.class
+org/example/uploader/report/ReportData.class
+org/example/uploader/report/ReportKey.class
+org/example/uploader/exception/FileStorageException.class
+org/example/uploader/controller/UserProjectController.class
+org/example/uploader/controller/UserProjectExceptionHandler.class
+org/example/uploader/ProjectUploader.class
+org/example/uploader/service/UserProjectService.class

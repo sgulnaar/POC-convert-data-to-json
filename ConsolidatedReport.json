@@ -1,0 +1,13 @@
+[{
+  "flag" : "a",
+  "sourceTable" : "b",
+  "targetTable" : "c",
+  "result" : "d",
+  "timeTaken" : "e"
+}, {
+  "flag" : "a",
+  "sourceTable" : "b",
+  "targetTable" : "c",
+  "result" : "d",
+  "timeTaken" : "e"
+}]
